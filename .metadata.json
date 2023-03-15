@@ -1,10 +1,10 @@
 [
   {
-    "package": "idem",
+    "package": "psrwe",
     "oncran": true
   },
   {
-    "package": "psrwe",
+    "package": "idem",
     "oncran": true
   }
 ]
