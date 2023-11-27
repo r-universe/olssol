@@ -5,6 +5,3 @@
 [submodule "idem"]
 	path = idem
 	url = https://github.com/olssol/idem
-[submodule "psrwe"]
-	path = psrwe
-	url = https://github.com/olssol/psrwe
